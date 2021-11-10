@@ -1,0 +1,24 @@
+{
+  "name": "curso-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandomarzola/graphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandomarzola/graphQL/issues"
+  },
+  "homepage": "https://github.com/nandomarzola/graphQL#readme",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^15.7.2"
+  }
+}
